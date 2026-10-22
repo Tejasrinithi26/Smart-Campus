@@ -69,7 +69,7 @@ All college-specific facts should be grounded in retrieved documents. If the req
 
 Open the deployed application:
 
-**https://smart-campus-liev.hatchable.site**
+**https://smart-campus-liev.hatchable.site?utm_source=chatgpt.com**
 
 Sign in using an email address ending in `@bitsathy.ac.in`, select Student or Faculty, and ask a campus-related question.
 
