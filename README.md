@@ -33,9 +33,6 @@ Provides examination schedules, eligibility information, arrear rules, and reapp
 ### 4. Administration Agent
 Handles hostel fee information, administrative procedures, and document-submission guidance.
 
-### 5. Coordinator Agent
-Routes questions to the appropriate specialist agent and chooses the most suitable response format.
-
 ## Knowledge Base
 
 The project is configured to use the following uploaded documents:
