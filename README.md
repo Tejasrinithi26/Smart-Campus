@@ -1,6 +1,6 @@
 # Smart Campus Helpdesk – Multi-Agent AI Assistant
 
-**Live Demo:** https://smart-campus-liev.hatchable.site
+**Live Demo:** https://smart-campus-liev.hatchable.site?utm_source=chatgpt.com
 
 ## About the Project
 
